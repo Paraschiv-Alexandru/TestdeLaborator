@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610358881 source:c:\users\alex\desktop\apps\facultate\python\212_paraschiv_alexandru\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<string.h>
+	<vector>
+	<map>
+
